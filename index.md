@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Пчела - форум для IT и Digital специалистов
 ---
 
